@@ -10,18 +10,18 @@
   "license": "ISC",
   "dependencies": {
     "gmail-send": "^1.8.10",
-    "puppeteer": "^7.0.4",
+    "puppeteer": "^21.9.0",
     "pushover-notifications": "^1.2.2"
   },
   "bin": {
     "check-stock": "bin/index.js"
   },
   "devDependencies": {
-    "eslint": "7.2.0",
-    "eslint-config-airbnb": "18.2.0",
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.21.2",
     "eslint-plugin-jsx-a11y": "^6.3.0",
     "eslint-plugin-react": "^7.20.0",
-    "eslint-plugin-react-hooks": "4.0.0"
+    "eslint-plugin-react-hooks": "^4.0.0"
   }
 }
